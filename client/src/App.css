@@ -1,0 +1,47 @@
+.jumbotron {
+    background-image: linear-gradient(rgba(8, 189, 53, 0.671), rgba(5, 214, 144, 0.397));
+    color: rgba(255, 255, 255, 0.815);
+}
+
+.half_div {
+    width: 47%;
+    height: 300px;
+    display: inline-block;
+    margin-right: 3%;
+    float: left;
+    text-align: center;
+}
+
+.half_div h3 {
+    margin-right: 20%;
+}
+
+.manual_row {
+    display: inline-block;
+    width: 93%;
+    height: 100px;
+    text-align: center;
+}
+
+.manual_row input {
+    margin-right: 3%;
+    margin-top: 1%;
+}
+
+.pet-box {
+    width: 70%;
+    min-height: 75px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.full_pet_header {
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.full_pet {
+    height: 400px;
+
+}
